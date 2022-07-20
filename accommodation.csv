@@ -1,0 +1,1301 @@
+Source,Location,Number of Beds,Type,Price (HKD)
+Hotel,Kita,,Apartment,589.0
+Hotel,Taito,2.0,Hotel Room,621.0
+Hotel,Shinagawa,,Apartment,1807.0
+Hotel,Sumida,,Apartment,811.0
+Hotel,Taito,1.0,Hotel Room,378.0
+Hotel,Taito,1.0,Dormitory,226.0
+Hotel,Toshima,1.0,Hotel Room,389.0
+Hotel,Shinjuku,3.0,Hotel Room,1299.0
+Hotel,Koto,1.0,Dormitory,190.0
+Hotel,Shibuya,1.0,Hotel Room,915.0
+Hotel,Minato,1.0,Hotel Room,1910.0
+Hotel,Minato,1.0,Hotel Room,1117.0
+Hotel,Minato,2.0,Hotel Room,2530.0
+Hotel,Shibuya,1.0,Hotel Room,1471.0
+Hotel,Shibuya,1.0,Dormitory,566.0
+Hotel,Chiyoda,1.0,Hotel Room,2067.0
+Hotel,Chuo,1.0,Hotel Room,594.0
+Hotel,Shibuya,1.0,Hotel Room,911.0
+Hotel,Chuo,1.0,Hotel Room,957.0
+Hotel,Minato,1.0,Hotel Room,728.0
+Hotel,Chuo,1.0,Hotel Room,608.0
+Hotel,Chuo,1.0,Hotel Room,835.0
+Hotel,Shinjuku,1.0,Hotel Room,867.0
+Hotel,Chuo,1.0,Hotel Room,1039.0
+Hotel,Shinjuku,1.0,Hotel Room,863.0
+Hotel,Shibuya,1.0,Hotel Room,1839.0
+Hotel,Ota,1.0,Hotel Room,1448.0
+Hotel,Shibuya,1.0,Hotel Room,989.0
+Hotel,Chuo,1.0,Hotel Room,608.0
+Hotel,Shibuya,1.0,Hotel Room,1028.0
+Hotel,Shinjuku,1.0,Hotel Room,1929.0
+Hotel,Shinagawa,1.0,Hotel Room,658.0
+Hotel,Minato,1.0,Hotel Room,644.0
+Hotel,Chuo,1.0,Hotel Room,608.0
+Hotel,Chuo,1.0,Hotel Room,790.0
+Hotel,Taito,1.0,Hotel Room,500.0
+Hotel,Kita,1.0,Hotel Room,746.0
+Hotel,Chuo,1.0,Hotel Room,1082.0
+Hotel,Sumida,2.0,Hotel Room,1228.0
+Hotel,Chuo,1.0,Hotel Room,1880.0
+Hotel,Shinagawa,1.0,Hotel Room,726.0
+Hotel,Chiyoda,1.0,Hotel Room,789.0
+Hotel,Chuo,1.0,Hotel Room,711.0
+Hotel,Taito,1.0,Hotel Room,450.0
+Hotel,Koto,1.0,Hotel Room,758.0
+Hotel,Kita,1.0,Hotel Room,714.0
+Hotel,Ota,1.0,Hotel Room,782.0
+Hotel,Shinagawa,1.0,Hotel Room,626.0
+Hotel,Chiyoda,1.0,Hotel Room,1139.0
+Hotel,Minato,1.0,Hotel Room,902.0
+Hotel,Minato,1.0,Hotel Room,729.0
+Hotel,Minato,1.0,Hotel Room,837.0
+Hotel,Chiyoda,2.0,Hotel Room,2921.0
+Hotel,Minato,1.0,Hotel Room,1264.0
+Hotel,Toshima,1.0,Hotel Room,519.0
+Hotel,Minato,1.0,Hotel Room,1233.0
+Hotel,Minato,1.0,Hotel Room,2733.0
+Hotel,Shinjuku,1.0,Hotel Room,865.0
+Hotel,Minato,2.0,Hotel Room,1698.0
+Hotel,Shibuya,1.0,Hotel Room,1435.0
+Hotel,Ota,1.0,Hotel Room,1003.0
+Hotel,Shinjuku,1.0,Hotel Room,2889.0
+Hotel,Shinjuku,1.0,Hotel Room,1809.0
+Hotel,Chiyoda,1.0,Hotel Room,627.0
+Hotel,Chuo,1.0,Hotel Room,714.0
+Hotel,Shinjuku,1.0,Hotel Room,935.0
+Hotel,Shinagawa,2.0,Hotel Room,574.0
+Hotel,Shinjuku,1.0,Hotel Room,584.0
+Hotel,Shinjuku,1.0,Hotel Room,876.0
+Hotel,Minato,1.0,Hotel Room,1329.0
+Hotel,Chuo,1.0,Hotel Room,1190.0
+Hotel,Minato,1.0,Hotel Room,1083.0
+Hotel,Taito,1.0,Hotel Room,537.0
+Hotel,Chiyoda,1.0,Hotel Room,617.0
+Hotel,Shinjuku,1.0,Hotel Room,968.0
+Hotel,Ota,1.0,Hotel Room,974.0
+Hotel,Chuo,1.0,Hotel Room,687.0
+Hotel,Shinjuku,3.0,Hotel Room,2678.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Kita,1.0,Hotel Room,717.0
+Hotel,Minato,1.0,Hotel Room,667.0
+Hotel,Chuo,1.0,Hotel Room,1001.0
+Hotel,Shinjuku,1.0,Hotel Room,898.0
+Hotel,Chuo,1.0,Hotel Room,899.0
+Hotel,Shinjuku,1.0,Hotel Room,976.0
+Hotel,Taito,1.0,Hotel Room,569.0
+Hotel,Bunkyo,1.0,Hotel Room,546.0
+Hotel,Shibuya,1.0,Hotel Room,1856.0
+Hotel,Taito,,Apartment,2202.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Shinjuku,1.0,Hotel Room,915.0
+Hotel,Minato,1.0,Hotel Room,865.0
+Hotel,Minato,1.0,Hotel Room,2004.0
+Hotel,Shibuya,1.0,Hotel Room,844.0
+Hotel,Chuo,1.0,Hotel Room,1081.0
+Hotel,Minato,1.0,Hotel Room,717.0
+Hotel,Kita,1.0,Hotel Room,752.0
+Hotel,Shibuya,1.0,Hotel Room,698.0
+Hotel,Chiyoda,1.0,Hotel Room,952.0
+Hotel,Taito,1.0,Hotel Room,569.0
+Hotel,Taito,1.0,Hotel Room,739.0
+Hotel,Chuo,1.0,Hotel Room,738.0
+Hotel,Toshima,1.0,Hotel Room,615.0
+Hotel,Chuo,1.0,Hotel Room,638.0
+Hotel,Shibuya,1.0,Hotel Room,995.0
+Hotel,Toshima,1.0,Hotel Room,671.0
+Hotel,Chuo,1.0,Hotel Room,1244.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Shinjuku,1.0,Hotel Room,954.0
+Hotel,Shinagawa,1.0,Hotel Room,648.0
+Hotel,Taito,1.0,Hotel Room,726.0
+Hotel,Shibuya,1.0,Hotel Room,813.0
+Hotel,Minato,1.0,Hotel Room,790.0
+Hotel,Chiyoda,1.0,Hotel Room,606.0
+Hotel,Chuo,1.0,Hotel Room,683.0
+Hotel,Edogawa,1.0,Hotel Room,828.0
+Hotel,Chiyoda,1.0,Hotel Room,606.0
+Hotel,Meguro,1.0,Hotel Room,1182.0
+Hotel,Shibuya,1.0,Hotel Room,844.0
+Hotel,Taito,1.0,Hotel Room,1367.0
+Hotel,Chuo,1.0,Hotel Room,571.0
+Hotel,Chuo,1.0,Hotel Room,842.0
+Hotel,Ota,1.0,Hotel Room,632.0
+Hotel,Chuo,1.0,Hotel Room,736.0
+Hotel,Minato,,Miscellaneous,2517.0
+Hotel,Minato,1.0,Hotel Room,789.0
+Hotel,Chuo,1.0,Hotel Room,865.0
+Hotel,Minato,1.0,Hotel Room,738.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Chuo,1.0,Hotel Room,759.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Taito,1.0,Hotel Room,752.0
+Hotel,Chiyoda,1.0,Hotel Room,852.0
+Hotel,Minato,1.0,Hotel Room,941.0
+Hotel,Chuo,1.0,Hotel Room,517.0
+Hotel,Ota,1.0,Hotel Room,1763.0
+Hotel,Minato,4.0,Hotel Room,2826.0
+Hotel,Shinjuku,1.0,Hotel Room,713.0
+Hotel,Chuo,1.0,Hotel Room,901.0
+Hotel,Minato,1.0,Hotel Room,940.0
+Hotel,Minato,1.0,Hotel Room,764.0
+Hotel,Minato,1.0,Hotel Room,1113.0
+Hotel,Koto,1.0,Hotel Room,993.0
+Hotel,Chuo,1.0,Hotel Room,606.0
+Hotel,Sumida,1.0,Hotel Room,444.0
+Hotel,Minato,1.0,Hotel Room,883.0
+Hotel,Shinagawa,1.0,Hotel Room,660.0
+Hotel,Koto,1.0,Hotel Room,1958.0
+Hotel,Shibuya,1.0,Hotel Room,1285.0
+Hotel,Minato,1.0,Hotel Room,665.0
+Hotel,Taito,1.0,Hotel Room,584.0
+Hotel,Ota,1.0,Hotel Room,638.0
+Hotel,Koto,1.0,Hotel Room,638.0
+Hotel,Chiyoda,1.0,Hotel Room,725.0
+Hotel,Shibuya,1.0,Hotel Room,1154.0
+Hotel,Edogawa,1.0,Hotel Room,536.0
+Hotel,Bunkyo,1.0,Hotel Room,825.0
+Hotel,Taito,4.0,Hotel Room,2321.0
+Hotel,Minato,2.0,Hotel Room,1413.0
+Hotel,(outside tokyo),2.0,Hotel Room,3127.0
+Hotel,Chuo,1.0,Hotel Room,1198.0
+Hotel,Taito,1.0,Hotel Room,461.0
+Hotel,Shinagawa,1.0,Hotel Room,1103.0
+Hotel,Minato,1.0,Hotel Room,714.0
+Hotel,Chuo,1.0,Hotel Room,514.0
+Hotel,Taito,,Miscellaneous,717.0
+Hotel,Chuo,1.0,Hotel Room,563.0
+Hotel,Taito,1.0,Hotel Room,547.0
+Hotel,Toshima,1.0,Hotel Room,541.0
+Hotel,Toshima,1.0,Hotel Room,904.0
+Hotel,Chiyoda,1.0,Hotel Room,573.0
+Hotel,Minato,1.0,Hotel Room,974.0
+Hotel,Minato,1.0,Hotel Room,736.0
+Hotel,Shinjuku,1.0,Hotel Room,801.0
+Hotel,Minato,1.0,Hotel Room,606.0
+Hotel,Ota,1.0,Hotel Room,606.0
+Hotel,Taito,1.0,Dormitory,216.0
+Hotel,Chuo,1.0,Hotel Room,1719.0
+Hotel,Chuo,1.0,Hotel Room,833.0
+Hotel,Bunkyo,1.0,Hotel Room,3869.0
+Hotel,Minato,,Miscellaneous,3280.0
+Hotel,Taito,1.0,Hotel Room,499.0
+Hotel,Shinagawa,1.0,Hotel Room,935.0
+Hotel,Shinjuku,1.0,Hotel Room,606.0
+Hotel,Shinjuku,1.0,Hotel Room,831.0
+Hotel,Minato,1.0,Hotel Room,1274.0
+Hotel,Chuo,1.0,Hotel Room,546.0
+Hotel,Taito,1.0,Hotel Room,1766.0
+Hotel,Taito,1.0,Hotel Room,513.0
+Hotel,Chiyoda,1.0,Hotel Room,1153.0
+Hotel,Minato,1.0,Dormitory,389.0
+Hotel,Sumida,1.0,Hotel Room,665.0
+Hotel,Shinjuku,1.0,Hotel Room,801.0
+Hotel,Chuo,,Studio,3059.0
+Hotel,Sumida,1.0,Hotel Room,914.0
+Hotel,Chiyoda,1.0,Hotel Room,666.0
+Hotel,Shinjuku,1.0,Dormitory,321.0
+Hotel,Shibuya,1.0,Hotel Room,948.0
+Hotel,Arakawa,1.0,Hotel Room,683.0
+Hotel,Minato,1.0,Hotel Room,1103.0
+Hotel,Chiyoda,1.0,Hotel Room,898.0
+Hotel,Toshima,1.0,Hotel Room,541.0
+Hotel,Minato,1.0,Hotel Room,974.0
+Hotel,Minato,1.0,Hotel Room,2380.0
+Hotel,Minato,1.0,Hotel Room,665.0
+Hotel,Minato,1.0,Hotel Room,2164.0
+Hotel,Toshima,1.0,Hotel Room,531.0
+Hotel,Minato,1.0,Hotel Room,784.0
+Hotel,Minato,1.0,Hotel Room,606.0
+Hotel,Koto,1.0,Hotel Room,898.0
+Hotel,Taito,4.0,Hotel Room,2499.0
+Hotel,Minato,1.0,Hotel Room,606.0
+Hotel,Chiyoda,1.0,Hotel Room,844.0
+Hotel,Setagaya,1.0,Hotel Room,1142.0
+Hotel,Setagaya,1.0,Hotel Room,1079.0
+Hotel,Chiyoda,1.0,Hotel Room,832.0
+Hotel,Koto,1.0,Hotel Room,652.0
+Hotel,(outside tokyo),2.0,Hotel Room,3631.0
+Hotel,Chuo,1.0,Hotel Room,1028.0
+Hotel,Chiyoda,1.0,Hotel Room,622.0
+Hotel,Shinjuku,1.0,Hotel Room,916.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,482.0
+Hotel,(outside tokyo),2.0,Hotel Room,2099.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,1269.0
+Hotel,Chuo,1.0,Hotel Room,613.0
+Hotel,Chiyoda,1.0,Hotel Room,827.0
+Hotel,Setagaya,1.0,Hotel Room,1285.0
+Hotel,Shinjuku,1.0,Hotel Room,1623.0
+Hotel,Koto,1.0,Hotel Room,1310.0
+Hotel,Chiyoda,1.0,Hotel Room,730.0
+Hotel,Shibuya,1.0,Hotel Room,3063.0
+Hotel,Chiyoda,1.0,Hotel Room,745.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Chuo,1.0,Hotel Room,514.0
+Hotel,Shinagawa,1.0,Hotel Room,665.0
+Hotel,Chuo,1.0,Hotel Room,849.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Taito,1.0,Hotel Room,775.0
+Hotel,(outside tokyo),2.0,Hotel Room,3815.0
+Hotel,Chuo,1.0,Hotel Room,762.0
+Hotel,Chuo,1.0,Hotel Room,1188.0
+Hotel,Toshima,1.0,Hotel Room,974.0
+Hotel,Kita,1.0,Dormitory,200.0
+Hotel,Taito,1.0,Hotel Room,1022.0
+Hotel,Minato,1.0,Hotel Room,697.0
+Hotel,Chiyoda,1.0,Hotel Room,606.0
+Hotel,Chuo,1.0,Hotel Room,682.0
+Hotel,Minato,1.0,Hotel Room,1953.0
+Hotel,Minato,1.0,Hotel Room,1953.0
+Hotel,Edogawa,1.0,Hotel Room,686.0
+Hotel,Ota,1.0,Hotel Room,607.0
+Hotel,Ota,1.0,Hotel Room,865.0
+Hotel,Chuo,2.0,Hotel Room,909.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Shinagawa,1.0,Hotel Room,617.0
+Hotel,Taito,1.0,Hotel Room,647.0
+Hotel,Chiyoda,1.0,Hotel Room,541.0
+Hotel,Koto,1.0,Hotel Room,607.0
+Hotel,Koto,1.0,Hotel Room,974.0
+Hotel,Taito,1.0,Hotel Room,694.0
+Hotel,Minato,1.0,Hotel Room,752.0
+Hotel,Chuo,1.0,Hotel Room,789.0
+Hotel,Minato,1.0,Hotel Room,723.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Chiyoda,1.0,Hotel Room,6158.0
+Hotel,Chiyoda,1.0,Hotel Room,487.0
+Hotel,Chuo,1.0,Hotel Room,850.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,1906.0
+Hotel,Taito,1.0,Hotel Room,1168.0
+Hotel,Minato,1.0,Hotel Room,4653.0
+Hotel,Shibuya,1.0,Hotel Room,1644.0
+Hotel,Shibuya,1.0,Hotel Room,1178.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Chuo,1.0,Hotel Room,1716.0
+Hotel,Chuo,1.0,Hotel Room,1133.0
+Hotel,Minato,1.0,Hotel Room,690.0
+Hotel,Ota,1.0,Hotel Room,768.0
+Hotel,Minato,1.0,Hotel Room,1099.0
+Hotel,Taito,4.0,Hotel Room,2856.0
+Hotel,(outside tokyo),2.0,Hotel Room,2389.0
+Hotel,(outside tokyo),2.0,Hotel Room,3460.0
+Hotel,Chuo,2.0,Hotel Room,1768.0
+Hotel,Taito,1.0,Hotel Room,565.0
+Hotel,Taito,1.0,Hotel Room,980.0
+Hotel,Koto,1.0,Hotel Room,546.0
+Hotel,Minato,1.0,Hotel Room,925.0
+Hotel,Koto,1.0,Dormitory,365.0
+Hotel,Ota,1.0,Hotel Room,807.0
+Hotel,Chuo,1.0,Hotel Room,876.0
+Hotel,Minato,1.0,Hotel Room,2062.0
+Hotel,Koto,2.0,Hotel Room,763.0
+Hotel,Shinjuku,3.0,Hotel Room,2819.0
+Hotel,Chiyoda,1.0,Hotel Room,916.0
+Hotel,Ota,1.0,Hotel Room,517.0
+Hotel,Minato,1.0,Hotel Room,3271.0
+Hotel,Shinjuku,1.0,Hotel Room,1047.0
+Hotel,Chiyoda,1.0,Hotel Room,613.0
+Hotel,Minato,1.0,Hotel Room,725.0
+Hotel,Taito,1.0,Hotel Room,658.0
+Hotel,Minato,1.0,Hotel Room,952.0
+Hotel,Kita,1.0,Hotel Room,433.0
+Hotel,Chuo,1.0,Hotel Room,1022.0
+Hotel,Kita,1.0,Hotel Room,746.0
+Hotel,Shibuya,1.0,Hotel Room,831.0
+Hotel,Shinagawa,1.0,Hotel Room,865.0
+Hotel,Chuo,1.0,Hotel Room,1217.0
+Hotel,Taito,1.0,Dormitory,273.0
+Hotel,Minato,1.0,Hotel Room,1032.0
+Hotel,Minato,1.0,Hotel Room,730.0
+Hotel,Chuo,2.0,Hotel Room,4610.0
+Hotel,Minato,1.0,Dormitory,346.0
+Hotel,Taito,1.0,Hotel Room,514.0
+Hotel,Koto,1.0,Hotel Room,753.0
+Hotel,Chuo,1.0,Hotel Room,1471.0
+Hotel,Minato,1.0,Hotel Room,3704.0
+Hotel,(outside tokyo),2.0,Hotel Room,2378.0
+Hotel,Kita,1.0,Hotel Room,636.0
+Hotel,Taito,3.0,Hotel Room,827.0
+Hotel,Taito,,Suite,1503.0
+Hotel,Chiyoda,1.0,Hotel Room,876.0
+Hotel,Minato,1.0,Hotel Room,687.0
+Hotel,Chuo,1.0,Hotel Room,666.0
+Hotel,Minato,1.0,Hotel Room,809.0
+Hotel,Toshima,1.0,Hotel Room,692.0
+Hotel,Taito,1.0,Hotel Room,807.0
+Hotel,Chiyoda,1.0,Hotel Room,569.0
+Hotel,Shinjuku,1.0,Hotel Room,867.0
+Hotel,Edogawa,1.0,Hotel Room,606.0
+Hotel,Sumida,1.0,Hotel Room,626.0
+Hotel,Minato,1.0,Hotel Room,1418.0
+Hotel,Chuo,1.0,Hotel Room,1313.0
+Hotel,Arakawa,2.0,Hotel Room,757.0
+Hotel,Chuo,1.0,Hotel Room,987.0
+Hotel,Minato,1.0,Hotel Room,932.0
+Hotel,Adachi,1.0,Hotel Room,665.0
+Hotel,Chiyoda,1.0,Hotel Room,683.0
+Hotel,Taito,2.0,Hotel Room,1452.0
+Hotel,Minato,1.0,Dormitory,270.0
+Hotel,Shibuya,1.0,Dormitory,303.0
+Hotel,Shinjuku,1.0,Hotel Room,1024.0
+Hotel,Chiyoda,1.0,Hotel Room,5583.0
+Hotel,Chiyoda,1.0,Dormitory,346.0
+Hotel,Minato,1.0,Hotel Room,1125.0
+Hotel,Taito,1.0,Hotel Room,753.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,789.0
+Hotel,Minato,1.0,Hotel Room,8428.0
+Hotel,Koto,1.0,Hotel Room,396.0
+Hotel,Shibuya,1.0,Hotel Room,811.0
+Hotel,Ota,1.0,Hotel Room,696.0
+Hotel,Ota,1.0,Hotel Room,584.0
+Hotel,Taito,1.0,Hotel Room,512.0
+Hotel,Chuo,1.0,Hotel Room,967.0
+Hotel,Taito,1.0,Hotel Room,944.0
+Hotel,Chiyoda,1.0,Hotel Room,904.0
+Hotel,Ota,1.0,Hotel Room,649.0
+Hotel,Taito,1.0,Hotel Room,565.0
+Hotel,Ota,1.0,Hotel Room,538.0
+Hotel,Chiyoda,1.0,Hotel Room,3748.0
+Hotel,Chiyoda,1.0,Hotel Room,3032.0
+Hotel,Shinagawa,1.0,Hotel Room,811.0
+Hotel,Meguro,2.0,Hotel Room,833.0
+Hotel,Chiyoda,1.0,Dormitory,433.0
+Hotel,Shinjuku,1.0,Dormitory,433.0
+Hotel,Chuo,1.0,Hotel Room,682.0
+Hotel,Toshima,1.0,Hotel Room,882.0
+Hotel,(outside tokyo),2.0,Hotel Room,1332.0
+Hotel,Minato,1.0,Hotel Room,4993.0
+Hotel,Chuo,1.0,Hotel Room,1418.0
+Hotel,Minato,1.0,Hotel Room,771.0
+Hotel,Chuo,1.0,Hotel Room,2278.0
+Hotel,Taito,1.0,Dormitory,262.0
+Hotel,Sumida,1.0,Hotel Room,909.0
+Hotel,Shinjuku,1.0,Hotel Room,849.0
+Hotel,Chuo,3.0,Hotel Room,1801.0
+Hotel,Chuo,1.0,Hotel Room,1240.0
+Hotel,Chiyoda,1.0,Hotel Room,666.0
+Hotel,Minato,1.0,Hotel Room,6122.0
+Hotel,Shinjuku,1.0,Hotel Room,1412.0
+Hotel,Chiyoda,1.0,Hotel Room,1002.0
+Hotel,Taito,1.0,Dormitory,194.0
+Hotel,Bunkyo,1.0,Hotel Room,1109.0
+Hotel,Meguro,1.0,Hotel Room,1412.0
+Hotel,Shinjuku,1.0,Dormitory,346.0
+Hotel,Shinagawa,1.0,Hotel Room,1028.0
+Hotel,Minato,1.0,Hotel Room,595.0
+Hotel,Koto,1.0,Hotel Room,1082.0
+Hotel,Taito,2.0,Hotel Room,811.0
+Hotel,Edogawa,1.0,Hotel Room,810.0
+Hotel,Taito,1.0,Hotel Room,768.0
+Hotel,Shinagawa,1.0,Hotel Room,865.0
+Hotel,Minato,1.0,Hotel Room,2619.0
+Hotel,Shinjuku,1.0,Hotel Room,682.0
+Hotel,Shinjuku,1.0,Hotel Room,893.0
+Hotel,Chuo,1.0,Hotel Room,503.0
+Hotel,Shinjuku,1.0,Hotel Room,714.0
+Hotel,Taito,1.0,Hotel Room,1037.0
+Hotel,Minato,1.0,Hotel Room,611.0
+Hotel,Ota,,Apartment,838.0
+Hotel,Sumida,1.0,Hotel Room,1060.0
+Hotel,Chiyoda,2.0,Hotel Room,5174.0
+Hotel,Setagaya,1.0,Hotel Room,1849.0
+Hotel,Shinjuku,2.0,Hotel Room,610.0
+Hotel,Bunkyo,1.0,Hotel Room,1092.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Minato,1.0,Hotel Room,6483.0
+Hotel,Chuo,1.0,Hotel Room,893.0
+Hotel,Minato,1.0,Hotel Room,790.0
+Hotel,Shinjuku,1.0,Hotel Room,606.0
+Hotel,Bunkyo,1.0,Hotel Room,1016.0
+Hotel,Taito,1.0,Dormitory,270.0
+Hotel,Toshima,1.0,Hotel Room,523.0
+Hotel,Chuo,1.0,Hotel Room,4591.0
+Hotel,Minato,1.0,Dormitory,389.0
+Hotel,Edogawa,1.0,Hotel Room,503.0
+Hotel,Taito,1.0,Hotel Room,519.0
+Hotel,Toshima,1.0,Hotel Room,911.0
+Hotel,Ota,1.0,Hotel Room,606.0
+Hotel,Toshima,1.0,Hotel Room,990.0
+Hotel,Edogawa,1.0,Hotel Room,828.0
+Hotel,Sumida,1.0,Hotel Room,649.0
+Hotel,Shinjuku,1.0,Hotel Room,671.0
+Hotel,Shinjuku,1.0,Hotel Room,671.0
+Hotel,Shinjuku,1.0,Dormitory,389.0
+Hotel,Arakawa,1.0,Hotel Room,740.0
+Hotel,(outside tokyo),1.0,Hotel Room,1060.0
+Hotel,Taito,1.0,Hotel Room,285.0
+Hotel,Chuo,1.0,Dormitory,318.0
+Hotel,Shinagawa,1.0,Hotel Room,2117.0
+Hotel,Ota,1.0,Hotel Room,1158.0
+Hotel,Taito,1.0,Hotel Room,1201.0
+Hotel,Minato,1.0,Hotel Room,678.0
+Hotel,Chuo,1.0,Hotel Room,663.0
+Hotel,Chiyoda,1.0,Dormitory,619.0
+Hotel,Minato,1.0,Hotel Room,831.0
+Hotel,Minato,1.0,Hotel Room,865.0
+Hotel,Minato,1.0,Hotel Room,714.0
+Hotel,Koto,1.0,Dormitory,249.0
+Hotel,Nerima,1.0,Hotel Room,695.0
+Hotel,(outside tokyo),3.0,Hotel Room,2713.0
+Hotel,Minato,1.0,Hotel Room,628.0
+Hotel,Toshima,1.0,Hotel Room,672.0
+Hotel,Chiyoda,1.0,Hotel Room,1153.0
+Hotel,Toshima,1.0,Hotel Room,703.0
+Hotel,Shinjuku,1.0,Hotel Room,1098.0
+Hotel,Sumida,1.0,Dormitory,195.0
+Hotel,Toshima,1.0,Hotel Room,945.0
+Hotel,Taito,1.0,Hotel Room,476.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Shinagawa,1.0,Hotel Room,683.0
+Hotel,Shinjuku,1.0,Hotel Room,962.0
+Hotel,Toshima,1.0,Hotel Room,1298.0
+Hotel,Chuo,4.0,Hotel Room,2678.0
+Hotel,Taito,1.0,Dormitory,205.0
+Hotel,Kita,1.0,Hotel Room,630.0
+Hotel,Setagaya,2.0,Hotel Room,3462.0
+Hotel,Taito,1.0,Hotel Room,649.0
+Hotel,Minato,1.0,Hotel Room,1255.0
+Hotel,Taito,1.0,Hotel Room,569.0
+Hotel,Chiyoda,1.0,Hotel Room,1310.0
+Hotel,Minato,1.0,Hotel Room,820.0
+Hotel,Taito,1.0,Hotel Room,925.0
+Hotel,Toshima,1.0,Hotel Room,740.0
+Hotel,Chuo,1.0,Hotel Room,774.0
+Hotel,Chiyoda,1.0,Hotel Room,581.0
+Hotel,Shibuya,1.0,Hotel Room,4938.0
+Hotel,Koto,1.0,Hotel Room,490.0
+Hotel,Taito,1.0,Hotel Room,512.0
+Hotel,Chuo,1.0,Hotel Room,2402.0
+Hotel,Chuo,1.0,Hotel Room,822.0
+Hotel,Chuo,1.0,Hotel Room,1590.0
+Hotel,Koto,,Hotel Room,752.0
+Hotel,Shinagawa,1.0,Hotel Room,622.0
+Hotel,Chuo,1.0,Hotel Room,968.0
+Hotel,Taito,1.0,Hotel Room,571.0
+Hotel,Ota,1.0,Hotel Room,538.0
+Hotel,Minato,1.0,Hotel Room,725.0
+Hotel,Minato,1.0,Hotel Room,1244.0
+Hotel,Meguro,1.0,Hotel Room,1066.0
+Hotel,Ota,1.0,Hotel Room,1036.0
+Hotel,Chuo,1.0,Hotel Room,2618.0
+Hotel,Chuo,1.0,Hotel Room,652.0
+Hotel,Minato,1.0,Hotel Room,837.0
+Hotel,Chuo,1.0,Hotel Room,843.0
+Hotel,Shinjuku,1.0,Hotel Room,749.0
+Hotel,Chiyoda,1.0,Dormitory,346.0
+Hotel,Shibuya,1.0,Hotel Room,2261.0
+Hotel,Taito,1.0,Hotel Room,342.0
+Hotel,Kita,1.0,Hotel Room,680.0
+Hotel,Bunkyo,1.0,Hotel Room,820.0
+Hotel,Taito,1.0,Dormitory,357.0
+Hotel,Taito,1.0,Hotel Room,813.0
+Hotel,(outside tokyo),2.0,Hotel Room,1634.0
+Hotel,Shinjuku,2.0,Hotel Room,854.0
+Hotel,Shibuya,1.0,Hotel Room,1363.0
+Hotel,Shinjuku,1.0,Hotel Room,613.0
+Hotel,Chiyoda,1.0,Hotel Room,591.0
+Hotel,Taito,1.0,Hotel Room,974.0
+Hotel,Sumida,1.0,Hotel Room,524.0
+Hotel,Chiyoda,1.0,Hotel Room,6547.0
+Hotel,Chuo,1.0,Hotel Room,1345.0
+Hotel,Shinjuku,1.0,Hotel Room,644.0
+Hotel,Shinjuku,1.0,Dormitory,541.0
+Hotel,Edogawa,1.0,Hotel Room,795.0
+Hotel,Chuo,,Hotel Room,2255.0
+Hotel,Adachi,1.0,Hotel Room,779.0
+Hotel,Ota,1.0,Hotel Room,552.0
+Hotel,(outside tokyo),3.0,Hotel Room,2185.0
+Hotel,Shibuya,1.0,Hotel Room,1497.0
+Hotel,Shinjuku,1.0,Hotel Room,622.0
+Hotel,Arakawa,1.0,Hotel Room,768.0
+Hotel,Chuo,1.0,Hotel Room,490.0
+Hotel,Chiyoda,1.0,Hotel Room,4437.0
+Hotel,Chiyoda,1.0,Hotel Room,1211.0
+Hotel,Taito,1.0,Dormitory,411.0
+Hotel,Arakawa,1.0,Hotel Room,498.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Katsuhika,1.0,Hotel Room,465.0
+Hotel,Shinjuku,2.0,Hotel Room,884.0
+Hotel,Taito,3.0,Hotel Room,1039.0
+Hotel,Taito,2.0,Hotel Room,606.0
+Hotel,Toshima,2.0,Hotel Room,487.0
+Hotel,Chiyoda,1.0,Hotel Room,2248.0
+Hotel,Bunkyo,1.0,Hotel Room,663.0
+Hotel,Toshima,1.0,Hotel Room,659.0
+Hotel,Sumida,1.0,Hotel Room,454.0
+Hotel,Shinagawa,1.0,Hotel Room,457.0
+Hotel,Chiyoda,1.0,Hotel Room,857.0
+Hotel,Sumida,1.0,Dormitory,216.0
+Hotel,Shinjuku,1.0,Hotel Room,811.0
+Hotel,Toshima,1.0,Hotel Room,487.0
+Hotel,Taito,1.0,Hotel Room,476.0
+Hotel,Toshima,1.0,Hotel Room,379.0
+Hotel,Shibuya,1.0,Hotel Room,613.0
+Hotel,Shinjuku,1.0,Hotel Room,541.0
+Hotel,Chuo,1.0,Hotel Room,728.0
+Hotel,Shinjuku,1.0,Hotel Room,4047.0
+Hotel,Chiyoda,1.0,Hotel Room,844.0
+Hotel,Koto,1.0,Hotel Room,1396.0
+Hotel,Taito,1.0,Hotel Room,535.0
+Hotel,Sumida,1.0,Hotel Room,270.0
+Hotel,Taito,1.0,Hotel Room,718.0
+Hotel,Minato,1.0,Hotel Room,622.0
+Hotel,Chuo,,Apartment,1519.0
+Hotel,Toshima,1.0,Hotel Room,912.0
+Hotel,Taito,1.0,Hotel Room,685.0
+Hotel,Shinjuku,1.0,Hotel Room,541.0
+Hotel,Shinjuku,1.0,Hotel Room,678.0
+Hotel,Taito,2.0,Hotel Room,833.0
+Hotel,Shibuya,1.0,Hotel Room,1579.0
+Hotel,Shinjuku,1.0,Hotel Room,914.0
+Hotel,Taito,1.0,Hotel Room,746.0
+Hotel,Toshima,1.0,Hotel Room,963.0
+Hotel,Minato,1.0,Hotel Room,1869.0
+Hotel,(outside tokyo),2.0,Hotel Room,2072.0
+Hotel,Adachi,1.0,Hotel Room,1148.0
+Hotel,Chuo,1.0,Hotel Room,1168.0
+Hotel,Chuo,1.0,Hotel Room,837.0
+Hotel,Toshima,,Apartment,1194.0
+Hotel,Chuo,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,947.0
+Hotel,Shinagawa,1.0,Hotel Room,717.0
+Hotel,Taito,1.0,Dormitory,401.0
+Hotel,Toshima,1.0,Hotel Room,1255.0
+Hotel,Shinjuku,1.0,Hotel Room,779.0
+Hotel,Shinjuku,1.0,Hotel Room,745.0
+Hotel,Chuo,1.0,Hotel Room,952.0
+Hotel,Shibuya,,Apartment,1212.0
+Hotel,Sumida,3.0,Hotel Room,569.0
+Hotel,Ota,1.0,Hotel Room,725.0
+Hotel,Minato,3.0,Hotel Room,1136.0
+Hotel,Minato,1.0,Hotel Room,454.0
+Hotel,Toshima,1.0,Hotel Room,865.0
+Hotel,Chuo,1.0,Hotel Room,703.0
+Hotel,Suginami,1.0,Hotel Room,828.0
+Hotel,Suginami,1.0,Hotel Room,757.0
+Hotel,Taito,1.0,Hotel Room,631.0
+Hotel,Sumida,1.0,Hotel Room,647.0
+Hotel,Minato,2.0,Hotel Room,811.0
+Hotel,Toshima,1.0,Hotel Room,801.0
+Hotel,Adachi,2.0,Hotel Room,398.0
+Hotel,Sumida,1.0,Hotel Room,1378.0
+Hotel,(outside tokyo),2.0,Hotel Room,1594.0
+Hotel,Taito,1.0,Hotel Room,376.0
+Hotel,Chiyoda,1.0,Hotel Room,844.0
+Hotel,Minato,1.0,Hotel Room,569.0
+Hotel,Shibuya,1.0,Dormitory,459.0
+Hotel,Nerima,1.0,Hotel Room,920.0
+Hotel,Taito,2.0,Hotel Room,579.0
+Hotel,(outside tokyo),1.0,Hotel Room,692.0
+Hotel,Minato,2.0,Hotel Room,1635.0
+Hotel,Shinjuku,1.0,Hotel Room,822.0
+Hotel,Chuo,1.0,Hotel Room,541.0
+Hotel,Shinjuku,2.0,Hotel Room,627.0
+Hotel,Chiyoda,1.0,Hotel Room,1550.0
+Hotel,Minato,1.0,Hotel Room,686.0
+Hotel,(outside tokyo),2.0,Hotel Room,2510.0
+Hotel,Toshima,1.0,Hotel Room,564.0
+Hotel,Shinjuku,1.0,Dormitory,364.0
+Hotel,Ota,1.0,Hotel Room,576.0
+Hotel,Chuo,1.0,Hotel Room,809.0
+Hotel,Taito,1.0,Hotel Room,1634.0
+Hotel,Shinjuku,1.0,Hotel Room,844.0
+Hotel,Shinjuku,1.0,Hotel Room,535.0
+Hotel,Ota,1.0,Hotel Room,831.0
+Hotel,Sumida,1.0,Hotel Room,877.0
+Hotel,Taito,1.0,Hotel Room,897.0
+Hotel,Chuo,1.0,Hotel Room,476.0
+Hotel,Chiyoda,1.0,Hotel Room,5543.0
+Hotel,Sumida,,Apartment,1107.0
+Hotel,Shibuya,1.0,Hotel Room,579.0
+Hotel,Chiyoda,,Studio,4094.0
+Hotel,Shinjuku,1.0,Hotel Room,595.0
+Hotel,(outside tokyo),1.0,Hotel Room,660.0
+Hotel,Koto,1.0,Hotel Room,1517.0
+Hotel,Shibuya,1.0,Hotel Room,1332.0
+Hotel,Ota,1.0,Hotel Room,785.0
+Hotel,Edogawa,1.0,Hotel Room,584.0
+Hotel,Toshima,1.0,Hotel Room,1584.0
+Hotel,Chiyoda,1.0,Hotel Room,8355.0
+Hotel,Shinjuku,1.0,Hotel Room,703.0
+Hotel,Nakano,1.0,Hotel Room,2278.0
+Hotel,Nakano,1.0,Hotel Room,2278.0
+Hotel,Minato,1.0,Hotel Room,686.0
+Hotel,Shinjuku,1.0,Dormitory,292.0
+Hotel,Shibuya,1.0,Hotel Room,476.0
+Hotel,Chuo,1.0,Hotel Room,655.0
+Hotel,Sumida,1.0,Hotel Room,716.0
+Hotel,Chiyoda,1.0,Hotel Room,660.0
+Hotel,(outside tokyo),1.0,Hotel Room,1069.0
+Hotel,Chiyoda,1.0,Hotel Room,607.0
+Hotel,Shibuya,1.0,Dormitory,322.0
+Hotel,Chiyoda,1.0,Hotel Room,1098.0
+Hotel,Minato,1.0,Hotel Room,1270.0
+Hotel,Taito,1.0,Dormitory,286.0
+Hotel,Ota,,Miscellaneous,1779.0
+Hotel,Shinjuku,2.0,Hotel Room,7059.0
+Hotel,Shinjuku,1.0,Dormitory,270.0
+Hotel,Chiyoda,1.0,Hotel Room,536.0
+Hotel,Taito,1.0,Hotel Room,797.0
+Hotel,Chuo,2.0,Hotel Room,939.0
+Hotel,Shinjuku,,Apartment,303.0
+Hotel,Chiyoda,1.0,Hotel Room,909.0
+Hotel,(outside tokyo),2.0,Hotel Room,1097.0
+Hotel,Taito,1.0,Hotel Room,562.0
+Hotel,Taito,1.0,Hotel Room,924.0
+Hotel,Shinjuku,2.0,Hotel Room,974.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Taito,1.0,Dormitory,322.0
+Hotel,Ota,1.0,Hotel Room,574.0
+Hotel,Taito,2.0,Dormitory,560.0
+Hotel,Arakawa,1.0,Hotel Room,657.0
+Hotel,Taito,1.0,Dormitory,195.0
+Hotel,Shinjuku,1.0,Hotel Room,644.0
+Hotel,Koto,1.0,Hotel Room,779.0
+Hotel,Minato,1.0,Hotel Room,594.0
+Hotel,Taito,1.0,Dormitory,314.0
+Hotel,Adachi,1.0,Dormitory,318.0
+Hotel,Taito,1.0,Hotel Room,554.0
+Hotel,Shinagawa,1.0,Hotel Room,717.0
+Hotel,Shinjuku,1.0,Hotel Room,448.0
+Hotel,Toshima,1.0,Hotel Room,968.0
+Hotel,Taito,1.0,Hotel Room,736.0
+Hotel,Taito,1.0,Hotel Room,1275.0
+Hotel,Meguro,1.0,Hotel Room,4954.0
+Hotel,Chiyoda,1.0,Dormitory,327.0
+Hotel,Taito,2.0,Hotel Room,682.0
+Hotel,Shinjuku,3.0,Dormitory,195.0
+Hotel,Shinjuku,1.0,Dormitory,226.0
+Hotel,Sumida,1.0,Dormitory,389.0
+Hotel,Taito,1.0,Hotel Room,725.0
+Hotel,Minato,1.0,Hotel Room,769.0
+Hotel,Chuo,1.0,Hotel Room,536.0
+Hotel,Chuo,3.0,Hotel Room,2916.0
+Hotel,Chiyoda,5.0,Hotel Room,2175.0
+Hotel,Shinjuku,1.0,Dormitory,703.0
+Hotel,Shinjuku,,Apartment,680.0
+Hotel,Chuo,1.0,Hotel Room,638.0
+Hotel,Shinjuku,1.0,Hotel Room,1028.0
+Hotel,Chuo,1.0,Hotel Room,837.0
+Hotel,Taito,1.0,Hotel Room,557.0
+Hotel,Shinagawa,1.0,Hotel Room,891.0
+Hotel,Shinjuku,1.0,Hotel Room,640.0
+Hotel,Chiyoda,1.0,Hotel Room,805.0
+Hotel,Taito,1.0,Hotel Room,606.0
+Hotel,Taito,1.0,Hotel Room,660.0
+Hotel,Taito,2.0,Hotel Room,2434.0
+Hotel,Arakawa,1.0,Hotel Room,705.0
+Hotel,Shinjuku,2.0,Hotel Room,541.0
+Hotel,Taito,2.0,Dormitory,534.0
+Hotel,Chuo,1.0,Hotel Room,523.0
+Hotel,Shinjuku,1.0,Hotel Room,1354.0
+Hotel,Chiyoda,1.0,Hotel Room,6483.0
+Hotel,Minato,1.0,Dormitory,744.0
+Hotel,Taito,3.0,Hotel Room,974.0
+Hotel,Chiyoda,1.0,Hotel Room,898.0
+Hotel,Shinjuku,1.0,Hotel Room,541.0
+Hotel,Chuo,1.0,Hotel Room,1406.0
+Hotel,Chiyoda,1.0,Dormitory,311.0
+Hotel,Chuo,1.0,Hotel Room,476.0
+Hotel,Chuo,1.0,Dormitory,303.0
+Hotel,Minato,,Studio,1804.0
+Hotel,Edogawa,1.0,Hotel Room,826.0
+Hotel,Taito,1.0,Hotel Room,790.0
+Hotel,Taito,2.0,Hotel Room,683.0
+Hotel,Chiyoda,1.0,Hotel Room,757.0
+Hotel,Chuo,1.0,Hotel Room,1240.0
+Hotel,Minato,1.0,Hotel Room,798.0
+Hotel,Toshima,1.0,Hotel Room,790.0
+Hotel,Taito,1.0,Hotel Room,512.0
+Hotel,Taito,1.0,Hotel Room,1645.0
+Hotel,Chiyoda,1.0,Hotel Room,706.0
+Hotel,Taito,1.0,Hotel Room,530.0
+Hotel,Minato,1.0,Hotel Room,835.0
+Hotel,Shinagawa,1.0,Hotel Room,530.0
+Hotel,Nakano,1.0,Hotel Room,779.0
+Hotel,Toshima,1.0,Dormitory,292.0
+Hotel,(outside tokyo),4.0,Hotel Room,2542.0
+Hotel,Itabashi,1.0,Hotel Room,581.0
+Hotel,Taito,5.0,Hotel Room,569.0
+Hotel,Shinjuku,1.0,Hotel Room,519.0
+Hotel,Minato,1.0,Hotel Room,633.0
+Hotel,Ota,,Apartment,995.0
+Hotel,Setagaya,1.0,Dormitory,345.0
+Hotel,Toshima,1.0,Hotel Room,471.0
+Hotel,Sumida,1.0,Hotel Room,649.0
+Hotel,Taito,1.0,Hotel Room,1039.0
+Hotel,Chuo,1.0,Hotel Room,824.0
+Hotel,Chiyoda,1.0,Dormitory,281.0
+Hotel,Ota,1.0,Dormitory,411.0
+Hotel,Minato,1.0,Hotel Room,6194.0
+Hotel,Koto,1.0,Hotel Room,606.0
+Hotel,Chuo,1.0,Hotel Room,1773.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Minato,1.0,Hotel Room,683.0
+Hotel,Shinjuku,1.0,Hotel Room,798.0
+Hotel,Toshima,1.0,Hotel Room,640.0
+Hotel,Ota,1.0,Hotel Room,756.0
+Hotel,Sumida,1.0,Dormitory,230.0
+Hotel,Chiyoda,1.0,Hotel Room,970.0
+Hotel,Shinjuku,1.0,Dormitory,386.0
+Hotel,Chiyoda,1.0,Hotel Room,2806.0
+Hotel,Shinagawa,1.0,Hotel Room,724.0
+Hotel,Kita,1.0,Hotel Room,484.0
+Hotel,Setagaya,1.0,Hotel Room,703.0
+Hotel,Chuo,2.0,Hotel Room,1250.0
+Hotel,Minato,1.0,Hotel Room,606.0
+Hotel,Taito,1.0,Hotel Room,766.0
+Hotel,Chiyoda,1.0,Dormitory,373.0
+Hotel,(outside tokyo),2.0,Hotel Room,3070.0
+Hotel,Taito,1.0,Hotel Room,823.0
+Hotel,Shinagawa,1.0,Hotel Room,797.0
+Hotel,Adachi,1.0,Hotel Room,752.0
+Hotel,Edogawa,1.0,Hotel Room,643.0
+Hotel,Sumida,1.0,Hotel Room,2050.0
+Hotel,Ota,1.0,Dormitory,228.0
+Hotel,Shinjuku,1.0,Hotel Room,1082.0
+Hotel,Taito,3.0,Hotel Room,1212.0
+Hotel,Ota,1.0,Hotel Room,865.0
+Hotel,Taito,2.0,Hotel Room,893.0
+Hotel,Meguro,1.0,Hotel Room,1462.0
+Hotel,Chuo,1.0,Hotel Room,454.0
+Hotel,Ota,1.0,Hotel Room,764.0
+Hotel,Koto,,Apartment,462.0
+Hotel,Bunkyo,2.0,Hotel Room,1436.0
+Hotel,Taito,1.0,Hotel Room,501.0
+Hotel,Shinjuku,,Villa,1947.0
+Hotel,Taito,2.0,Hotel Room,1527.0
+Hotel,Taito,1.0,Hotel Room,933.0
+Hotel,Shinjuku,1.0,Hotel Room,1103.0
+Hotel,Shinagawa,1.0,Hotel Room,1026.0
+Hotel,Shinjuku,1.0,Hotel Room,649.0
+Hotel,Shinjuku,1.0,Hotel Room,725.0
+Hotel,(outside tokyo),2.0,Hotel Room,3744.0
+Hotel,Taito,1.0,Hotel Room,741.0
+Hotel,Chiyoda,1.0,Dormitory,342.0
+Hotel,Ota,,Apartment,1253.0
+Hotel,Chiyoda,1.0,Hotel Room,974.0
+Hotel,Koto,1.0,Hotel Room,615.0
+Hotel,Taito,2.0,Hotel Room,634.0
+Hotel,Ota,1.0,Dormitory,280.0
+Hotel,Taito,1.0,Hotel Room,493.0
+Hotel,Taito,1.0,Dormitory,300.0
+Hotel,Taito,1.0,Hotel Room,706.0
+Hotel,Shinagawa,1.0,Hotel Room,799.0
+Hotel,Taito,1.0,Dormitory,473.0
+Hotel,Edogawa,,Villa,2164.0
+Hotel,Toshima,1.0,Hotel Room,763.0
+Hotel,Arakawa,1.0,Dormitory,260.0
+Hotel,Taito,1.0,Hotel Room,544.0
+Hotel,Taito,3.0,Hotel Room,1904.0
+Hotel,Sumida,1.0,Hotel Room,1839.0
+Hotel,Ota,1.0,Hotel Room,714.0
+Hotel,Taito,1.0,Hotel Room,627.0
+Hotel,Toshima,1.0,Hotel Room,517.0
+Hotel,Setagaya,,Apartment,1190.0
+Hotel,Minato,1.0,Hotel Room,632.0
+Hotel,Taito,1.0,Hotel Room,574.0
+Hotel,Ota,,Studio,619.0
+Hotel,Minato,1.0,Hotel Room,1195.0
+Hotel,Chuo,1.0,Hotel Room,1014.0
+Hotel,Shinagawa,1.0,Hotel Room,820.0
+Hotel,Minato,1.0,Hotel Room,1098.0
+Hotel,Chiyoda,1.0,Hotel Room,579.0
+Hotel,Sumida,1.0,Hotel Room,519.0
+Hotel,Ota,1.0,Hotel Room,666.0
+Hotel,Minato,1.0,Hotel Room,4024.0
+Hotel,Toshima,1.0,Hotel Room,746.0
+Hotel,Shinagawa,1.0,Hotel Room,627.0
+Hotel,Minato,1.0,Hotel Room,5261.0
+Hotel,Shinjuku,1.0,Hotel Room,679.0
+Hotel,Ota,1.0,Hotel Room,727.0
+Hotel,Minato,1.0,Hotel Room,677.0
+Hotel,Chiyoda,2.0,Hotel Room,957.0
+Hotel,Taito,1.0,Dormitory,446.0
+Hotel,Chiyoda,1.0,Hotel Room,936.0
+Hotel,Minato,1.0,Hotel Room,1207.0
+Hotel,Ota,1.0,Hotel Room,694.0
+Hotel,Minato,1.0,Hotel Room,877.0
+Hotel,Shinjuku,1.0,Hotel Room,1352.0
+Hotel,Chiyoda,1.0,Hotel Room,736.0
+Hotel,Shinjuku,1.0,Hotel Room,617.0
+Hotel,Shinjuku,1.0,Hotel Room,617.0
+Hotel,Ota,2.0,Hotel Room,822.0
+Hotel,Bunkyo,,Apartment,1294.0
+Hotel,Shinjuku,,Apartment,928.0
+Hotel,Toshima,1.0,Hotel Room,444.0
+Hotel,Katsuhika,1.0,Hotel Room,638.0
+Hotel,Minato,1.0,Dormitory,514.0
+Hotel,Taito,1.0,Dormitory,341.0
+Hotel,Taito,1.0,Hotel Room,353.0
+Hotel,Sumida,4.0,Hotel Room,1755.0
+Hotel,Edogawa,1.0,Hotel Room,844.0
+Hotel,(outside tokyo),4.0,Hotel Room,2488.0
+Hotel,(outside tokyo),2.0,Hotel Room,2043.0
+Hotel,Shinjuku,1.0,Hotel Room,865.0
+Hotel,Toshima,1.0,Hotel Room,651.0
+Hotel,Sumida,1.0,Dormitory,228.0
+Hotel,Shinagawa,1.0,Hotel Room,763.0
+Hotel,Chiyoda,3.0,Hotel Room,1928.0
+Hotel,Taito,1.0,Hotel Room,477.0
+Hotel,Shibuya,,Studio,782.0
+Hotel,Arakawa,5.0,Hotel Room,1699.0
+Hotel,Shinagawa,1.0,Hotel Room,474.0
+Hotel,Taito,3.0,Hotel Room,1361.0
+Hotel,Taito,1.0,Hotel Room,541.0
+Hotel,Taito,1.0,Dormitory,292.0
+Hotel,Taito,3.0,Hotel Room,1475.0
+Hotel,Taito,1.0,Hotel Room,516.0
+Hotel,Ota,1.0,Dormitory,221.0
+Hotel,Toshima,,Studio,521.0
+Hotel,Minato,1.0,Hotel Room,906.0
+Hotel,Shinjuku,2.0,Hotel Room,703.0
+Hotel,Shinagawa,1.0,Hotel Room,1347.0
+Hotel,Arakawa,1.0,Hotel Room,882.0
+Hotel,Toshima,1.0,Hotel Room,657.0
+Hotel,Shinagawa,2.0,Hotel Room,1110.0
+Hotel,Chuo,,Apartment,2380.0
+Hotel,Chiyoda,2.0,Hotel Room,836.0
+Hotel,Ota,1.0,Hotel Room,865.0
+Hotel,Taito,1.0,Dormitory,256.0
+Hotel,Nakano,,Apartment,1553.0
+Hotel,Toshima,,Studio,485.0
+Hotel,Taito,,Apartment,911.0
+Hotel,Kita,1.0,Hotel Room,774.0
+Hotel,Bunkyo,1.0,Hotel Room,1277.0
+Hotel,Meguro,4.0,Hotel Room,5517.0
+Hotel,Suginami,,Holiday Home,1822.0
+Hotel,Chiyoda,1.0,Hotel Room,1777.0
+Hotel,Taito,1.0,Hotel Room,328.0
+Hotel,Suginami,1.0,Dormitory,325.0
+Hotel,Taito,1.0,Hotel Room,590.0
+Hotel,Chuo,1.0,Hotel Room,790.0
+Hotel,Chuo,1.0,Hotel Room,1535.0
+Hotel,Shinjuku,1.0,Hotel Room,833.0
+Hotel,Taito,2.0,Hotel Room,1618.0
+Hotel,Shibuya,4.0,Hotel Room,2975.0
+Hotel,Bunkyo,1.0,Dormitory,307.0
+Hotel,Chuo,1.0,Hotel Room,799.0
+Hotel,Arakawa,3.0,Dormitory,307.0
+Hotel,Taito,1.0,Hotel Room,342.0
+Hotel,Toshima,1.0,Hotel Room,833.0
+Hotel,Chuo,1.0,Hotel Room,1990.0
+Hotel,Chuo,,Suite,1179.0
+Hotel,Ota,,Apartment,797.0
+Hotel,Shinagawa,,Apartment,1412.0
+Hotel,Bunkyo,1.0,Hotel Room,572.0
+Hotel,Chiyoda,,Studio,4602.0
+Hotel,Shinjuku,2.0,Hotel Room,1515.0
+Hotel,Toshima,1.0,Hotel Room,508.0
+Hotel,Adachi,1.0,Hotel Room,552.0
+Hotel,Chuo,1.0,Hotel Room,824.0
+Hotel,Shinjuku,2.0,Hotel Room,1060.0
+Hotel,Katsuhika,1.0,Dormitory,454.0
+Hotel,Katsuhika,1.0,Hotel Room,487.0
+Hotel,(outside tokyo),1.0,Hotel Room,2164.0
+Hotel,Shinjuku,1.0,Hotel Room,647.0
+Hotel,Minato,1.0,Hotel Room,5247.0
+Hotel,(outside tokyo),2.0,Hotel Room,2657.0
+Hotel,Shibuya,1.0,Dormitory,448.0
+Hotel,Arakawa,,Suite,1298.0
+Hotel,Shinjuku,1.0,Hotel Room,1515.0
+Hotel,Shinagawa,1.0,Hotel Room,540.0
+Hotel,Chuo,1.0,Hotel Room,1207.0
+Hotel,Katsuhika,,Apartment,811.0
+Hotel,Chuo,1.0,Hotel Room,516.0
+Hotel,Taito,1.0,Hotel Room,822.0
+Hotel,Shinjuku,4.0,Hotel Room,2664.0
+Hotel,Sumida,,Apartment,952.0
+Hotel,Shinjuku,1.0,Hotel Room,535.0
+Hotel,Taito,2.0,Hotel Room,876.0
+Hotel,Taito,1.0,Hotel Room,1082.0
+Hotel,Shibuya,,Apartment,779.0
+Hotel,Chiyoda,1.0,Hotel Room,4443.0
+Hotel,Minato,,Apartment,1772.0
+Hotel,Toshima,1.0,Dormitory,234.0
+Hotel,Shinjuku,1.0,Hotel Room,1395.0
+Hotel,Arakawa,,Apartment,2465.0
+Hotel,Bunkyo,1.0,Hotel Room,1709.0
+Hotel,Katsuhika,4.0,Hotel Room,1144.0
+Hotel,Koto,1.0,Hotel Room,640.0
+Hotel,Sumida,1.0,Hotel Room,2164.0
+Hotel,Sumida,1.0,Hotel Room,2164.0
+Hotel,Kita,1.0,Hotel Room,746.0
+Hotel,Shibuya,,Apartment,1298.0
+Hotel,Koto,8.0,Hotel Room,1212.0
+Hotel,Shinjuku,1.0,Hotel Room,893.0
+Hotel,Chuo,1.0,Hotel Room,1242.0
+Hotel,Meguro,1.0,Hotel Room,714.0
+Hotel,Shinagawa,1.0,Hotel Room,1572.0
+Hotel,Edogawa,2.0,Hotel Room,1331.0
+Hotel,Chuo,,Studio,493.0
+Hotel,Taito,1.0,Dormitory,345.0
+Hotel,Taito,4.0,Hotel Room,962.0
+Hotel,Edogawa,1.0,Dormitory,193.0
+Hotel,Minato,,Studio,1599.0
+Hotel,Minato,1.0,Hotel Room,557.0
+Hotel,Ota,,Studio,619.0
+Hotel,Shinjuku,2.0,Hotel Room,959.0
+Hotel,Taito,1.0,Hotel Room,2278.0
+Hotel,Taito,,Suite,1454.0
+Hotel,Shinjuku,,Apartment,1230.0
+Hotel,Meguro,,Apartment,1515.0
+Hotel,Taito,3.0,Hotel Room,1915.0
+Hotel,Taito,1.0,Hotel Room,649.0
+Hotel,Taito,1.0,Hotel Room,431.0
+Hotel,Ota,1.0,Hotel Room,1168.0
+Hotel,Chuo,3.0,Hotel Room,1922.0
+Hotel,Katsuhika,,Apartment,442.0
+Hotel,Katsuhika,,Villa,1818.0
+Hotel,Chuo,,Apartment,1309.0
+Hotel,Sumida,2.0,Hotel Room,1142.0
+Hotel,Chuo,1.0,Dormitory,358.0
+Hotel,Taito,1.0,Hotel Room,703.0
+Hotel,Sumida,3.0,Hotel Room,1133.0
+Hotel,Toshima,1.0,Hotel Room,1139.0
+Hotel,Chiyoda,1.0,Dormitory,379.0
+Hotel,Shinjuku,2.0,Hotel Room,428.0
+Hotel,Minato,1.0,Dormitory,322.0
+Hotel,Taito,,Holiday Home,1125.0
+Hotel,Shibuya,,Studio,782.0
+Hotel,Minato,,Studio,848.0
+Hotel,Taito,1.0,Dormitory,419.0
+Hotel,Shinagawa,3.0,Hotel Room,2178.0
+Hotel,Chuo,1.0,Hotel Room,1492.0
+Hotel,Minato,1.0,Hotel Room,917.0
+Hotel,Sumida,,Apartment,760.0
+Hotel,Taito,1.0,Hotel Room,1014.0
+Hotel,Ota,,Studio,864.0
+Hotel,Shibuya,,Apartment,2056.0
+Hotel,Taito,1.0,Hotel Room,547.0
+Hotel,Taito,1.0,Hotel Room,487.0
+Hotel,Taito,,Apartment,2380.0
+Hotel,Shinjuku,1.0,Hotel Room,911.0
+Hotel,Shibuya,,Apartment,2005.0
+Hotel,Chuo,1.0,Hotel Room,581.0
+Hotel,Shinjuku,1.0,Hotel Room,1685.0
+Hotel,Kita,1.0,Dormitory,376.0
+Hotel,Taito,2.0,Hotel Room,671.0
+Hotel,Kita,1.0,Dormitory,216.0
+Hotel,Ota,1.0,Hotel Room,855.0
+Hotel,Shibuya,,Apartment,781.0
+Hotel,(outside tokyo),1.0,Hotel Room,1100.0
+Hotel,Taito,6.0,Hotel Room,1168.0
+Hotel,Edogawa,1.0,Hotel Room,1720.0
+Hotel,Taito,4.0,Hotel Room,651.0
+Hotel,Chiyoda,1.0,Hotel Room,8491.0
+Hotel,Shinjuku,3.0,Hotel Room,1275.0
+Hotel,Toshima,,Apartment,717.0
+Hotel,Taito,,Apartment,857.0
+Hotel,Kita,2.0,Hotel Room,1298.0
+Hotel,Setagaya,,Studio,1376.0
+Hotel,Ota,1.0,Hotel Room,790.0
+Hotel,Toshima,1.0,Hotel Room,364.0
+Hotel,Toshima,2.0,Hotel Room,683.0
+Hotel,Shibuya,,Apartment,1298.0
+Hotel,Taito,1.0,Hotel Room,342.0
+Airbnb,Chuo,1.0,Hotel Room,37.0
+Airbnb,Sumida,1.0,Private room,40.0
+Airbnb,Chuo,3.0,Hotel Room,160.0
+Airbnb,Chuo,1.0,Hotel Room,45.0
+Airbnb,Chuo,1.0,Apartment,79.0
+Airbnb,Shibuya,1.0,Apartment,23.0
+Airbnb,Taito,1.0,Hotel Room,36.0
+Airbnb,Shinagawa,1.0,Private room,46.0
+Airbnb,Bunkyo,1.0,Apartment,36.0
+Airbnb,Edogawa,3.0,Apartment,44.0
+Airbnb,Sumida,3.0,Apartment,101.0
+Airbnb,Sumida,2.0,Hotel Room,82.0
+Airbnb,Shinjuku,2.0,Apartment,90.0
+Airbnb,Minato,1.0,Hotel Room,51.0
+Airbnb,Shibuya,2.0,Home,59.0
+Airbnb,Shinjuku,5.0,Villa,17.0
+Airbnb,Taito,2.0,Private room,37.0
+Airbnb,Toshima,2.0,Condo,58.0
+Airbnb,Shinjuku,2.0,Apartment,103.0
+Airbnb,Shinjuku,2.0,Apartment,65.0
+Airbnb,Shibuya,1.0,Apartment,1164.0
+Airbnb,Chuo,1.0,Hotel Room,289.0
+Airbnb,Shinjuku,1.0,Apartment,372.0
+Airbnb,Shinjuku,1.0,Hotel Room,466.0
+Airbnb,Taito,1.0,Hotel Room,534.0
+Airbnb,Taito,1.0,Hotel Room,436.0
+Airbnb,Shinjuku,1.0,Apartment,780.0
+Airbnb,Shinjuku,2.0,Condo,443.0
+Airbnb,Shinjuku,1.0,Apartment,759.0
+Airbnb,Minato,,Hotel Room,410.0
+Airbnb,Shinjuku,1.0,Apartment,317.0
+Airbnb,Shinjuku,1.0,Apartment,258.0
+Airbnb,Shinjuku,1.0,Hotel Room,1001.0
+Airbnb,Shibuya,3.0,Apartment,503.0
+Airbnb,Ota,1.0,Private room,175.0
+Airbnb,Shinjuku,1.0,Apartment,315.0
+Airbnb,Shinjuku,1.0,Condo,510.0
+Airbnb,Shinjuku,2.0,Private room,373.0
+Airbnb,Shinjuku,2.0,Condo,659.0
+Airbnb,Koto,3.0,Private room,546.0
+Airbnb,Sumida,3.0,Hotel Room,487.0
+Airbnb,Taito,1.0,Apartment,479.0
+Airbnb,Shinjuku,1.0,Apartment,355.0
+Airbnb,Taito,1.0,Apartment,531.0
+Airbnb,Ota,1.0,Private room,145.0
+Airbnb,Taito,,Private room,329.0
+Airbnb,Shibuya,1.0,Private room,315.0
+Airbnb,Taito,2.0,Hotel Room,448.0
+Airbnb,Shibuya,1.0,Apartment,276.0
+Airbnb,Shinjuku,3.0,Apartment,215.0
+Airbnb,Shibuya,1.0,Apartment,509.0
+Airbnb,Shinjuku,1.0,Apartment,327.0
+Airbnb,Shibuya,1.0,Apartment,416.0
+Airbnb,Shibuya,1.0,Apartment,665.0
+Airbnb,Taito,1.0,Hotel Room,281.0
+Airbnb,Toshima,2.0,Apartment,279.0
+Airbnb,Ota,1.0,Private room,204.0
+Airbnb,Setagaya,,Apartment,408.0
+Airbnb,Chiyoda,1.0,Shared room,200.0
+Airbnb,Taito,8.0,Hotel Room,191.0
+Airbnb,Chuo,1.0,Apartment,333.0
+Airbnb,Shibuya,1.0,Apartment,471.0
+Airbnb,Taito,1.0,Shared room,170.0
+Airbnb,Taito,3.0,Apartment,312.0
+Airbnb,Taito,2.0,Apartment,1397.0
+Airbnb,Shibuya,2.0,Apartment,845.0
+Airbnb,Koto,6.0,Home,1677.0
+Airbnb,Shinjuku,1.0,Apartment,441.0
+Airbnb,Taito,2.0,Apartment,308.0
+Airbnb,Shibuya,1.0,Apartment,509.0
+Airbnb,Shinjuku,1.0,Apartment,355.0
+Airbnb,Chiyoda,2.0,Hotel Room,471.0
+Airbnb,Taito,1.0,Apartment,560.0
+Airbnb,Chuo,1.0,Apartment,333.0
+Airbnb,Shinjuku,3.0,Home,362.0
+Airbnb,Taito,2.0,Apartment,647.0
+Airbnb,Ota,2.0,Apartment,285.0
+Airbnb,Suginami,3.0,Apartment,522.0
+Airbnb,Sumida,3.0,Apartment,571.0
+Airbnb,Shinjuku,1.0,Apartment,427.0
+Airbnb,Shinjuku,1.0,Apartment,427.0
+Airbnb,Shinjuku,1.0,Apartment,1958.0
+Airbnb,Sumida,5.0,Hotel Room,835.0
+Airbnb,Sumida,1.0,Private room,114.0
+Airbnb,Chuo,1.0,Shared room,143.0
+Airbnb,Sumida,7.0,Home,1403.0
+Airbnb,Shibuya,2.0,Apartment,478.0
+Airbnb,Chuo,2.0,Apartment,612.0
+Airbnb,Taito,5.0,Hotel Room,1178.0
+Airbnb,Taito,12.0,Hotel Room,145.0
+Airbnb,Toshima,1.0,Private room,156.0
+Airbnb,Taito,4.0,Hotel Room,1037.0
+Airbnb,Setagaya,2.0,Hotel Room,408.0
+Airbnb,Shinjuku,1.0,Apartment,355.0
+Airbnb,Setagaya,3.0,Hotel Room,640.0
+Airbnb,Sumida,3.0,Apartment,512.0
+Airbnb,Taito,1.0,Private room,344.0
+Airbnb,Shinjuku,1.0,Private room,375.0
+Airbnb,Setagaya,4.0,Hotel Room,2394.0
+Airbnb,Nakano,3.0,Home,843.0
+Airbnb,Toshima,2.0,Private room,287.0
+Airbnb,Taito,1.0,Apartment,209.0
+Airbnb,Taito,3.0,Apartment,301.0
+Airbnb,Shinjuku,4.0,Apartment,548.0
+Airbnb,(outside tokyo),2.0,Private room,212.0
+Airbnb,(outside tokyo),2.0,Private room,92.0
+Airbnb,Shibuya,1.0,Apartment,509.0
+Airbnb,Sumida,1.0,Hotel Room,751.0
+Airbnb,Arakawa,1.0,Hotel Room,343.0
+Airbnb,Shinjuku,1.0,Apartment,441.0
+Airbnb,Shinjuku,1.0,Apartment,332.0
+Airbnb,Chiyoda,2.0,Hotel Room,408.0
+Airbnb,Chuo,2.0,Apartment,885.0
+Airbnb,Taito,16.0,Home,1359.0
+Airbnb,Shinjuku,1.0,Condo,478.0
+Airbnb,(outside tokyo),2.0,Private room,597.0
+Airbnb,Sumida,3.0,Apartment,624.0
+Airbnb,Shinjuku,2.0,Hotel Room,417.0
+Airbnb,Taito,2.0,Home,1285.0
+Airbnb,Shibuya,1.0,Apartment,398.0
+Airbnb,Toshima,5.0,Villa,1342.0
+Airbnb,Shinjuku,6.0,Apartment,768.0
+Airbnb,Sumida,5.0,Home,1630.0
+Airbnb,Minato,1.0,Shared room,129.0
+Airbnb,Shinjuku,3.0,Apartment,558.0
+Airbnb,Shinjuku,1.0,Apartment,393.0
+Airbnb,Chiyoda,2.0,Hotel Room,471.0
+Airbnb,Shinjuku,1.0,Apartment,566.0
+Airbnb,(outside tokyo),1.0,Private room,156.0
+Airbnb,Chuo,3.0,Apartment,1178.0
+Airbnb,Taito,8.0,Home,3222.0
+Airbnb,Chuo,2.0,Apartment,2162.0
+Airbnb,Chuo,1.0,Apartment,406.0
+Airbnb,Shibuya,1.0,Apartment,990.0
+Airbnb,Nakano,1.0,Apartment,376.0
+Airbnb,Shinjuku,2.0,Apartment,433.0
+Airbnb,Shibuya,4.0,Home,2477.0
+Airbnb,Shibuya,2.0,Apartment,1164.0
+Airbnb,Taito,1.0,Hotel Room,524.0
+Airbnb,(outside tokyo),5.0,Home,5535.0
+Airbnb,Chuo,1.0,Apartment,268.0
+Airbnb,Setagaya,2.0,Apartment,452.0
+Airbnb,(outside tokyo),10.0,Home,234.0
+Airbnb,Taito,7.0,Hotel Room,1009.0
+Airbnb,Taito,4.0,Hotel Room,1208.0
+Airbnb,Shibuya,1.0,Private room,509.0
+Airbnb,Toshima,2.0,Apartment,1581.0
+Airbnb,Shinjuku,5.0,Hotel Room,1399.0
+Airbnb,Minato,1.0,Hotel Room,404.0
+Airbnb,Koto,10.0,Home,1467.0
+Airbnb,Shinjuku,1.0,Apartment,439.0
+Airbnb,Taito,2.0,Hotel Room,629.0
+Airbnb,Sumida,1.0,Private room,143.0
+Airbnb,Chuo,1.0,Hotel Room,527.0
+Airbnb,Taito,1.0,Hotel Room,526.0
+Airbnb,Shinjuku,2.0,Private room,229.0
+Airbnb,Shinjuku,7.0,Home,1493.0
+Airbnb,Shibuya,1.0,Apartment,509.0
+Airbnb,Sumida,6.0,Home,1738.0
+Airbnb,Chuo,2.0,Apartment,612.0
+Airbnb,Sumida,7.0,Home,2522.0
+Airbnb,Sumida,2.0,Home,745.0
+Airbnb,Taito,3.0,Hotel Room,638.0
+Airbnb,Sumida,2.0,Hotel Room,292.0
+Airbnb,(outside tokyo),4.0,Home,345.0
+Airbnb,Shinjuku,4.0,Condo,754.0
+Airbnb,Minato,1.0,Apartment,609.0
+Airbnb,Taito,2.0,Hotel Room,629.0
+Airbnb,(outside tokyo),1.0,Apartment,1163.0
+Airbnb,Edogawa,2.0,Apartment,342.0
+Airbnb,Taito,2.0,Hotel Room,320.0
+Airbnb,Shibuya,1.0,Home,666.0
+Airbnb,Shinjuku,4.0,Apartment,2219.0
+Airbnb,Koto,1.0,Hotel Room,285.0
+Airbnb,Taito,4.0,Hotel Room,1004.0
+Airbnb,Shibuya,2.0,Apartment,1456.0
+Airbnb,Toshima,5.0,Villa,1630.0
+Airbnb,Minato,2.0,Apartment,529.0
+Airbnb,Shinjuku,6.0,Apartment,387.0
+Airbnb,Sumida,1.0,Private room,327.0
+Airbnb,Chuo,2.0,Apartment,333.0
+Airbnb,Shibuya,6.0,Home,2084.0
+Airbnb,Koto,2.0,Private room,319.0
+Airbnb,Ota,4.0,Home,353.0
+Airbnb,Itabashi,2.0,Apartment,308.0
+Airbnb,Taito,2.0,Home,939.0
+Airbnb,Shinjuku,2.0,Private room,454.0
+Airbnb,Taito,3.0,Home,1177.0
+Airbnb,Chiyoda,1.0,Shared room,182.0
+Airbnb,Sumida,4.0,Apartment,518.0
+Airbnb,Toshima,6.0,Home,833.0
+Airbnb,Shinjuku,3.0,Home,2329.0
+Airbnb,Sumida,1.0,Private room,125.0
+Airbnb,Shinjuku,1.0,Private room,356.0
+Airbnb,Taito,1.0,Private room,140.0
+Airbnb,Taito,1.0,Private room,381.0
+Airbnb,Shinjuku,4.0,Hotel Room,1168.0
+Airbnb,Nakano,1.0,Private room,248.0
+Airbnb,Chuo,1.0,Apartment,1007.0
+Airbnb,Taito,8.0,Apartment,396.0
+Airbnb,Shinjuku,6.0,Condo,1968.0
+Airbnb,Ota,6.0,Home,613.0
+Airbnb,(outside tokyo),,Private room,325.0
+Airbnb,(outside tokyo),3.0,Private room,239.0
+Airbnb,Shinjuku,1.0,Private room,400.0
+Airbnb,Chuo,1.0,Apartment,333.0
+Airbnb,Sumida,6.0,Loft,943.0
+Airbnb,Sumida,3.0,Apartment,817.0
+Airbnb,Koto,5.0,Home,548.0
+Airbnb,Taito,2.0,Apartment,647.0
+Airbnb,Ota,2.0,Apartment,437.0
+Airbnb,Chuo,1.0,Apartment,768.0
+Airbnb,Arakawa,3.0,Hotel Room,211.0
+Airbnb,Taito,1.0,Hotel Room,186.0
+Airbnb,Chiyoda,2.0,Apartment,3689.0
+Airbnb,Arakawa,1.0,Shared hotel room,97.0
+Airbnb,Meguro,4.0,Hotel Room,1081.0
+Airbnb,Taito,1.0,Hotel Room,448.0
+Airbnb,Taito,2.0,Hotel Room,567.0
+Airbnb,Arakawa,1.0,Hotel Room,357.0
+Airbnb,Shinjuku,3.0,Hotel Room,1164.0
+Airbnb,Meguro,2.0,Hotel Room,582.0
+Airbnb,Meguro,2.0,Private room,231.0
+Airbnb,Taito,2.0,Condo,312.0
+Airbnb,Sumida,6.0,Apartment,4658.0
+Airbnb,Shinjuku,4.0,Home,1558.0
+Airbnb,Sumida,1.0,Private room,461.0
+Airbnb,Meguro,3.0,Hotel Room,745.0
+Airbnb,Shinjuku,11.0,Apartment,1145.0
+Airbnb,Taito,3.0,Hotel Room,893.0
+Airbnb,Sumida,2.0,Apartment,733.0
+Airbnb,(outside tokyo),6.0,Villa,1085.0
+Airbnb,Shinjuku,2.0,Apartment,2595.0
+Airbnb,Chuo,1.0,Hotel Room,216.0
+Airbnb,Edogawa,1.0,Hotel Room,218.0
+Airbnb,Suginami,2.0,Apartment,522.0
+Airbnb,Adachi,5.0,Home,1776.0
+Airbnb,Shinjuku,1.0,Apartment,376.0
+Airbnb,Shinjuku,6.0,Villa,1292.0
+Airbnb,Sumida,6.0,Home,1630.0
+Airbnb,Sumida,1.0,Apartment,514.0
+Airbnb,Shinjuku,6.0,Hotel Room,905.0
+Airbnb,(outside tokyo),3.0,Cabin,1778.0
+Airbnb,Taito,6.0,Home,694.0
+Airbnb,Taito,1.0,Condo,292.0
+Airbnb,Sumida,1.0,Shared room,100.0
+Airbnb,Shinjuku,1.0,Apartment,658.0
+Airbnb,Itabashi,2.0,Apartment,310.0
+Airbnb,Shibuya,8.0,Home,1269.0
+Airbnb,Arakawa,1.0,Hotel Room,477.0
+Airbnb,Chuo,1.0,Apartment,333.0
+Airbnb,Sumida,1.0,Private room,91.0
+Airbnb,Edogawa,3.0,Apartment,342.0
+Airbnb,Setagaya,3.0,Hotel Room,2397.0
+Airbnb,Meguro,1.0,Private room,264.0
+Airbnb,Shinjuku,3.0,Apartment,986.0
+Airbnb,(outside tokyo),2.0,Villa,10953.0
+Airbnb,Shinjuku,2.0,Apartment,707.0
+Airbnb,Koto,4.0,Home,1304.0
+Airbnb,Chuo,3.0,Apartment,1992.0
+Airbnb,Shinjuku,4.0,Apartment,1153.0
+Airbnb,Taito,12.0,Shared room,145.0
+Airbnb,Sumida,7.0,Home,1000.0
+Airbnb,(outside tokyo),1.0,Apartment,261.0
+Airbnb,Shinjuku,7.0,Home,1436.0
+Airbnb,Shinjuku,5.0,Home,2032.0
+Airbnb,Toshima,1.0,Private room,197.0
+Airbnb,(outside tokyo),1.0,Private room,208.0
+Airbnb,Sumida,3.0,Apartment,1212.0
+Airbnb,(outside tokyo),1.0,Private room,267.0
+Airbnb,Shinjuku,1.0,Home,590.0
+Airbnb,Chuo,4.0,Hotel Room,1424.0
+Airbnb,Minato,1.0,Apartment,534.0
+Airbnb,Shinjuku,7.0,Home,2368.0
+Airbnb,Sumida,4.0,Apartment,556.0
+Airbnb,Koto,1.0,Hotel Room,256.0
+Airbnb,(outside tokyo),2.0,Private room,182.0
+Airbnb,Chiyoda,4.0,Hotel Room,461.0
+Airbnb,Koto,1.0,Shared room,131.0
+Airbnb,Taito,6.0,Hotel Room,1179.0
+Airbnb,Shinjuku,4.0,Home,1643.0
+Airbnb,Sumida,2.0,Apartment,601.0
+Airbnb,Shibuya,1.0,Private room,379.0
+Airbnb,Koto,1.0,Shared room,91.0
+Airbnb,Sumida,1.0,Private room,163.0
+Airbnb,Itabashi,4.0,Private room,163.0
+Airbnb,Toshima,1.0,Loft,379.0
+Airbnb,Shibuya,4.0,Apartment,869.0
+Airbnb,Suginami,5.0,Apartment,942.0
+Airbnb,Taito,1.0,Apartment,459.0
+Airbnb,(outside tokyo),1.0,Private room,190.0
+Airbnb,Sumida,1.0,Holiday Home,271.0
+Airbnb,Sumida,2.0,Apartment,742.0
+Airbnb,Edogawa,7.0,Home,1085.0
+Airbnb,Sumida,1.0,Shared room,100.0
+Airbnb,Toshima,6.0,Home,1445.0
+Airbnb,Katsuhika,2.0,Apartment,255.0
+Airbnb,(outside tokyo),2.0,Private room,292.0
+Airbnb,Taito,1.0,Home,963.0
+Airbnb,Taito,,Hotel Room,722.0

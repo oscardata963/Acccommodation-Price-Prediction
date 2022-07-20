@@ -1,0 +1,3 @@
+Ways to improve predictions:
+1. Remove outliers
+2. df_hotel some locations are named 'tokyo'
