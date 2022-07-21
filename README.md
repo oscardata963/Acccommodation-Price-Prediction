@@ -18,6 +18,6 @@ the accommodations for 1 adult in Tokyo, Japan at a specific date will be explor
 7. Sklearn
 
 **Folders**
-1. Scraping - data about the hotels are scraped from airbnb.com and booking.com using Selenium and Pandas.
+1. Scraping - Data about the hotels are scraped from airbnb.com and booking.com using Selenium and Pandas.
 2. Cleaning - Datasets obtained from the two websites are cleaned and combined using Pandas.
 3. Prediction - Data are analyzed using Pandas and Matplotlib and the accommodation prices are predicted using models from Sklearn.
