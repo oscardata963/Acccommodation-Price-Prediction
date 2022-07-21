@@ -7,3 +7,17 @@ and convenient solution to this common conundrum is to create a price estimator 
 This project aims at building an accommodation price estimator that inputs relevant features about the stays and predicts their prices corresponding to these 
 preferences. The collection of data requires web scraping on popular accommodation sites for a specific location, date and number of guests. To ensure consistency, 
 the accommodations for 1 adult in Tokyo, Japan at a specific date will be explored and used as the input data.
+
+**Tools used**
+1. Jupyer Notebook
+2. Python
+3. Selenium
+4. Pandas
+5. Numpy
+6. Matplotlib
+7. Sklearn
+
+**Folders**
+1. Scraping - data about the hotels are scraped from airbnb.com and booking.com using Selenium and Pandas.
+2. Cleaning - Datasets obtained from the two websites are cleaned and combined using Pandas.
+3. Prediction - Data are analyzed using Pandas and Matplotlib and the accommodation prices are predicted using models from Sklearn.
